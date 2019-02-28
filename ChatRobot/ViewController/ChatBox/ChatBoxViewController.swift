@@ -6,6 +6,7 @@
 //  Copyright © 2019 Jacky Fang. All rights reserved.
 //
 //  From 测试成功的ViewController
+//  Github - anglesYahoo
 
 import UIKit
 import SocketIO
